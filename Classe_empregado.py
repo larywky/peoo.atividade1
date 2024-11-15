@@ -1,4 +1,4 @@
-#Ana Eloisa Ferreira, Laryssa.
+#Ana Eloisa Ferreira, Larissa Silva.
 
 class Empregado:
     def __init__(self, nome: str, cpf: int, salario: float):
